@@ -45,9 +45,13 @@ PoliGraph-er is written in Python.
 
 After cloning this repository, change the working directory to the cloned directory.
 
-Then run the command: 
+Run the command below to install all the dependencies for the project.
 ```sh
-pip install -r requirement.txt
+pip install -r requirements.txt
+```
+Then the command below
+```sh
+python -m spacy download en_core_web_trf
 ```
 
 Initialize the Playwright library (used by the crawler script):
