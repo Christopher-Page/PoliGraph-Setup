@@ -41,16 +41,11 @@ PoliGraph-er is the NLP software used to generate PoliGraphs from the text of a 
 
 ### Installation
 
-PoliGraph-er is written in Python. We use conda to manage the Python dependencies. Please follow [this webpage](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html) to download and install conda first.
+PoliGraph-er is written in Python.
 
 After cloning this repository, change the working directory to the cloned directory.
 
-Create a new conda environment named `poligraph` with dependencies installed:
 
-```sh
-$ conda env create -n poligraph -f environment.yml
-$ conda activate poligraph
-```
 
 Initialize the Playwright library (used by the crawler script):
 
