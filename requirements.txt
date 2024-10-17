@@ -10,3 +10,4 @@ anytree
 unidecode
 spacy-transformers
 setfit
+huggingface_hub==0.23.5
