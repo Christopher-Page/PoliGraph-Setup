@@ -8,6 +8,5 @@ torch
 regex
 anytree
 unidecode
-transformer
 spacy-transformers
 setfit
