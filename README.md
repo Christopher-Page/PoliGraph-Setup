@@ -45,7 +45,10 @@ PoliGraph-er is written in Python.
 
 After cloning this repository, change the working directory to the cloned directory.
 
-
+Then run the command: 
+```sh
+pip install -r requirement.txt
+```
 
 Initialize the Playwright library (used by the crawler script):
 
