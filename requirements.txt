@@ -1,0 +1,13 @@
+playwright
+spacy
+beautifulsoup4
+langdetect
+requests_cache
+lxml
+torch
+regex
+anytree
+unidecode
+transformer
+spacy-transformers
+setfit
